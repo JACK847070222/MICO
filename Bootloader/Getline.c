@@ -43,7 +43,7 @@
 #define LF         0x0A
 
 /***************/
-/* Line Editor */
+/* Line Editor Jack*/
 /***************/
 void getline (char *line, int n)  {
   int  cnt = 0;
